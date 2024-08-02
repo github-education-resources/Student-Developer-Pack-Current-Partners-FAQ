@@ -11,11 +11,12 @@ The prize draw is open to verified registered students of GitHub Education who a
 - The prize draw is void in countries where such promotions are prohibited by law. This includes, but is not limited to, the following countries:
   - Belgium
   - Poland
+  - Sweden
+  - Cuba
   - Malaysia
   - Brunei
   - Bangladesh
-  - Italy
-  - Any other country where local laws prohibit free entry random prize draws
+  - Any other country where local laws prohibit free entry random prize draws.
 
 3. Entry Period
 
