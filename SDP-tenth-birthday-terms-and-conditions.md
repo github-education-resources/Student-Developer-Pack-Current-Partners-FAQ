@@ -1,4 +1,4 @@
-GitHub Education Student Developer Pack 10th Anniversary Random Prize Draw Terms and Conditions
+### GitHub Education Student Developer Pack 10th Anniversary Random Prize Draw Terms and Conditions
 
 1. Promoter
 The promoter of this prize draw is GitHub Education, a division of GitHub, Inc., located at 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.
