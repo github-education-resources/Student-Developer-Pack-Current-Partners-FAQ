@@ -5,7 +5,7 @@ The promoter of this prize draw is GitHub Education, a division of GitHub, Inc.,
 
 2. Eligibility
 
-The prize draw is open to verified registered students of GitHub Education who are at least 13 years old.
+The prize draw is open to former and current verified registered students of GitHub Education who are at least 13 years old.
 - Participants under 18 years must have parental or guardian consent to enter.
 - Employees of GitHub, Microsoft, their immediate families, and anyone otherwise connected with the organization are not eligible to enter.
 - The prize draw is void in countries where such promotions are prohibited by law. This includes, but is not limited to, the following countries:
