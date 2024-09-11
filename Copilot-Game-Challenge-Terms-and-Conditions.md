@@ -26,7 +26,7 @@ How to Enter
 - Clone the repo locally: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#about-cloning-a-repository
 - Open the code in the editor of your choice
 - Use GitHub Copilot to make some fun changes and improvements to the game!
-- [Share the link to your repo on the discussion for this contest!]
+- [Share the link to your repo on the discussion for this contest!](https://github.com/orgs/community/discussions/138419)
 
 Free Entry
 Participation in the prize draw is free, and no purchase is necessary to enter or win.
