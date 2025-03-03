@@ -6,6 +6,8 @@ Learn to ship software like a pro. There's no substitute for hands-on experience
 
 This repo gives you an overview of the Student Developer Pack, the current partners in the pack and answers to frequently asked questions about the pack.
 
+Note that Student Developer Pack offers are subject to change at the request of the third party partner offering the benefit. We try to notify learners in advance but sometimes service is interrupted. A list of current Student Developer Pack partners is below. 
+
 
 **What is the Student Developer Pack?**
 - The Student Developer Pack is a collection of student-only benefits from some of the world's most innovative companies. Student Developer Pack partners work with GitHub to extend these offers to our verified students because they know that the best way to support future developers is by gaining hands-on experience with industry standard products and tools.
