@@ -19,7 +19,8 @@ Note that Student Developer Pack offers are subject to change at the request of 
 - See the below listing of the current Student Developer Pack Partners [last updated 10/15/24, updated: Removed Netwise, Typeform, removed .Tech email offer from their offer].
 
 **I thought [X Company] was in the pack. Where did it go?**
-- Note that Student Developer Pack offers are not permanent and do sometimes change in scope or are removed from the pack all together. If you redeem a partner offer, then that partner leaves the pack, in most cases, you can complete the term of the offer.
+- Note that Student Developer Pack offers are not permanent and do sometimes change in scope or are removed from the pack all together. If you redeem a partner offer, then that partner leaves the pack, in most cases, you can complete the term of the offer. Some partners must temporarily pause their offer in the pack to make technical updates. If there are any experiencing a pause, you will find them listed [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/blob/main/SDP-paused-for-evaluation.md). 
+. 
 
 **I am a verified student but I can’t access a certain pack offer.**
 - First confirm that your student status is still valid (note that student validation lasts for 2 years, after which you will need to revalidate your student status). If you’ve confirmed that your student status is valid but you are unable to access a current, live Student Developer Pack offer, please contact that partner via their support email or ticketing system. If that still does not work, please visit Discussions or view our support page and someone from GitHub Education can look into your issue. There is also this [Discussions](https://github.com/orgs/community/discussions/111352) post that has the most up to date information about applying for benefits, common wait times, and the most likely reasons for rejection. 
