@@ -11,3 +11,6 @@ Effective: 3/19/2025 the Appfigures offer is changing for new redemptions moving
 Previous offer: Verified students get access to Appfigures Optimize plan for a term of one year.
 New offer: Verified students get access to the Appfigures Connect plan for a term of one year.
 _________
+
+March 21, 2025
+DeepSource is re-evaluating their offer and the offer is currently paused. Students have access to their Free plan which includes unlimited public repos, 1 private repo and customer support.
