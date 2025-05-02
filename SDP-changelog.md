@@ -1,9 +1,10 @@
 ## Student Developer Pack Partner Changelog
-_Note for Morgan: before 2024, "added" offers are designated by the formal upload of the contract to GitHub servers, and deprecated offers are due to the removal of offer access to 3rd parties_
 
-The following partners are either updating their systems or are experiencing technical issues causing their offer to be paused and unpublished from the Student Developer Pack. 
-- Mailgun (as of 3/10)
-- Kodika (as of 2/27)
+This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
+_________
+March 21, 2025
+### Changed
+DeepSource is re-evaluating their offer and the offer is currently paused. Students have access to their Free plan which includes unlimited public repos, 1 private repo and customer support.
 _________
 March 19, 2025
 ### Changed
@@ -14,10 +15,25 @@ Effective: 3/19/2025 the Appfigures offer is changing for new redemptions moving
 Previous offer: Verified students get access to Appfigures Optimize plan for a term of one year.
 New offer: Verified students get access to the Appfigures Connect plan for a term of one year.
 _________
-
-March 21, 2025
+March 10, 2025
 ### Changed
-DeepSource is re-evaluating their offer and the offer is currently paused. Students have access to their Free plan which includes unlimited public repos, 1 private repo and customer support.
+Mailgun is experiencing technical issues causing their offer to be paused and unpublished from the Student Developer Pack. 
+_________
+Feb 27, 2025
+### Changed
+Kodika is experiencing technical issues causing their offer to be paused and unpublished from the Student Developer Pack. 
+_________
+Nov 12, 2024 
+### Added 
+Appwrite was added to the SDP.
+_________
+Sep 5, 2024 
+### Added 
+Notion was added to the SDP.
+_________
+Aug 7, 2024 
+### Added 
+Github Foundations Certification was added to the SDP.
 _________
 August 1, 2024 
 ### Changed 
@@ -25,7 +41,7 @@ PomoDone reported that they are no longer operating and are unable to provide se
 _________
 July 19, 2024 
 ### Deprecated 
-_Note that this period of Deprecation is due to an internal delay. Support for offers may have been rescinded earlier than this date. Please contact the partnerships team with questions._
+_Note that this period of deprecation is due to an internal delay. Support for offers may have been rescinded earlier than this date. Please contact the partnerships team with questions._
 
 MNX.io was removed from the SDP.
 
@@ -134,6 +150,58 @@ Storyscript was removed from the SDP.
 Customerly was removed from the SDP.
 
 Best Dev Tools was removed from the SDP. 
+
+Canva was removed from the SDP. 
+_________
+Jun 12, 2024 
+### Added 
+GitHub Pro was added to the SDP.
+
+GitKraken & Glo Boards
+_________
+Apr 4, 2024 
+### Added 
+DevCycle was added to the SDP.
+_________
+Feb 8, 2024 
+### Added 
+opensauced was added to the SDP.
+_________
+Jan 18, 2024 
+### Added 
+Algolia was added to the SDP.
+_________
+Jan 10, 2024 
+### Added 
+Codedex was added to the SDP.
+_________
+Jul 7, 2023 
+### Added 
+Bump.sh was added to the SDP.
+_________
+Apr 17, 2023 
+### Added 
+Scrimba was added to the SDP.
+_________
+Mar 2, 2023 
+### Added 
+1Password was added to the SDP.
+_________
+Feb 8, 2023 
+### Added 
+Scrimba was added to the SDP.
+_________
+Nov 1, 2022 
+### Deprecated 
+Gitpod was removed from the SDP.
+_________
+Dec 6, 2022
+### Added
+Microsoft Azure was added to the SDP.
+_________
+Nov 18, 2022
+### Added
+AlgoExpert was added to the SDP.
 _________
 Nov 7, 2022 
 ### Deprecated 
@@ -143,9 +211,9 @@ Nov 1, 2022
 ### Deprecated 
 Gitpod was removed from the SDP.
 _________
-Jan 8, 2022 
-### Deprecated 
-Next Tech was removed from the SDP.
+Oct 31, 2022
+### Added
+Deepnote was added to the SDP.
 _________
 Oct 26, 2022 
 ### Deprecated 
@@ -178,6 +246,10 @@ _________
 Feb 15, 2022
 ### Added
 MakeCode was added to the SDP.
+_________
+Jan 8, 2022 
+### Deprecated 
+Next Tech was removed from the SDP.
 _________
 Dec 1, 2021
 ### Added
