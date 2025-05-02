@@ -55,8 +55,6 @@ SonarSource was removed from the SDP.
 
 Vidcode was removed from the SDP.
 
-Raygun was removed from the SDP.
-
 HostUp was removed from the SDP.
 
 Clubhouse was removed from the SDP.
@@ -65,19 +63,11 @@ TeamSQL was removed from the SDP.
 
 Codacy was removed from the SDP. 
 
-Transifex was removed from the SDP. 
-
-LogDNA was removed from the SDP.
-
 CodeSandbox was removed from the SDP. 
 
 Linode was removed from the SDP. 
 
 Equity Token was removed from the SDP.
-
-Drovio was removed from the SDP.
-
-Wisej was removed from the SDP. 
 
 Imgix was removed from the SDP.
 
@@ -97,23 +87,9 @@ Julia Computing was removed from the SDP.
 
 Freshpaint was removed from the SDP. 
 
-Sider was removed from the SDP. 
-
-EverSQL was removed from the SDP.
-
-Education Host was removed from the SDP. 
-
 Labs64 was removed from the SDP. 
 
-Weglot was removed from the SDP.
-
-Transloadit was removed from the SDP.
-
-SQLSmash was removed from the SDP.
-
 Phrase was removed from the SDP.
-
-Pushbots was removed from the SDP.
 
 Radix was removed from the SDP. 
 
@@ -141,17 +117,11 @@ Sonix was removed from the SDP.
 
 Jaamly was removed from the SDP.
 
-Yakindu was removed from the SDP.
-
-Sofy.ai was removed from the SDP.
-
 Storyscript was removed from the SDP.
 
 Customerly was removed from the SDP.
 
 Best Dev Tools was removed from the SDP. 
-
-Canva was removed from the SDP. 
 _________
 Jun 12, 2024 
 ### Added 
@@ -203,10 +173,6 @@ Nov 18, 2022
 ### Added
 AlgoExpert was added to the SDP.
 _________
-Nov 7, 2022 
-### Deprecated 
-Crowdin was removed from the SDP.
-_________
 Nov 1, 2022 
 ### Deprecated 
 Gitpod was removed from the SDP.
@@ -238,6 +204,47 @@ _________
 May 18, 2022
 ### Added
 Doppler was added to the SDP.
+
+_________
+Mar 21, 2022
+### Deprecated
+Sunset campaign for the following partners of the SDP: 
+
+eversql was removed from the SDP.
+
+Canva was removed from the SDP.
+
+Crowdin was removed from the SDP.
+
+Drovio was removed from the SDP.
+
+Education Host was removed from the SDP.
+
+logDNA was removed from the SDP.
+
+netlicesning was removed from the SDP.
+
+Phrase was removed from the SDP.
+
+Pushbots was removed from the SDP.
+
+Raygun was removed from the SDP.
+
+Sider was removed from the SDP.
+
+SOFY.ai was removed from the SDP.
+
+Transifex was removed from the SDP.
+
+SQLSmash was removed from the SDP. 
+
+Transloadit was removed from the SDP.
+
+Weglot was removed from the SDP.
+
+Wisej was removed from the SDP.
+
+Yakindu was removed from the SDP.  
 _________
 Feb 25, 2022
 ### Added
