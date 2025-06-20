@@ -149,6 +149,10 @@ Jul 7, 2023
 ### Added 
 Bump.sh was added to the SDP.
 _________
+Dec 20, 2023 
+### Deprecated 
+Replit was removed from the SDP.
+_________
 Apr 17, 2023 
 ### Added 
 Scrimba was added to the SDP.
