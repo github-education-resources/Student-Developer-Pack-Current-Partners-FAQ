@@ -2,6 +2,11 @@
 
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 _________
+June 30, 2025
+### Offer Paused
+
+GitHub is migrating the system that administers all Certification exams. While this update is taking place, we will be pausing the GitHub Foundations Certification offer for students. Once the update is complete, we will resume the offer. We estimate this to be in early Fall. Once resumed, the process to redeem the offer will be a little different. Documentation on how to redeem the offer with the new process will be available at that time.
+_________
 March 21, 2025
 ### Changed
 DeepSource is re-evaluating their offer and the offer is currently paused. Students have access to their Free plan which includes unlimited public repos, 1 private repo and customer support.
