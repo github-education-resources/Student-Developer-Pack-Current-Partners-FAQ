@@ -2,7 +2,11 @@
 
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 
+_________
 
+September 30, 2025
+### Resumed
+GitHub Foundations certification returned to SDP offers under Microsoft Learn. The voucher can now be used for either the Foundations exam OR the Copilot exam. Details can be found [here](https://github.com/orgs/community/discussions/165477).
 _________
 
 September 17, 2025
