@@ -6,7 +6,7 @@ _________
 
 September 30, 2025
 ### Resumed
-GitHub Foundations certification returned to SDP offers under Microsoft Learn. The voucher can now be used for either the Foundations exam OR the Copilot exam. Details can be found [here](https://github.com/orgs/community/discussions/165477).
+GitHub Foundations certification returned to SDP offers under Microsoft Learn. Vouchers are available to all verified students as long as supplies last. The voucher can now be used for either the Foundations exam OR the Copilot exam. Further details can be found [here](https://github.com/orgs/community/discussions/165477). 
 _________
 
 September 17, 2025
