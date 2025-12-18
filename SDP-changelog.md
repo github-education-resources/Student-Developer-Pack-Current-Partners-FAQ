@@ -3,6 +3,10 @@
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 
 _________
+December 9, 2025
+### Removed
+Bump.sh has decided to end their Student Developer Pack offer for new students. Current Bump.sh users with a Student Developer Pack activated before December 9th still have an active subscription for now. If they decide to discontinue this free use, Bump.sh will contact inform students at least one month before deactivating the subscription to offer them several paid options. Support and questions can go to hello@bump.sh.
+_________
 October 25, 2025
 ### Paused
 Thinkful offer removed from SDP due to technical issue. 
