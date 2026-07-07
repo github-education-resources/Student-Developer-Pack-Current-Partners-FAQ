@@ -2,6 +2,12 @@
 
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 
+
+_________
+July 7, 2026
+### Sunsetting
+DigitalOcean is leaving the Student Developer Pack, and their student credit offer for $200 of platform credit will no longer be available after July 31, 2026. Verified students who have already redeemed the DigitalOcean offer can continue using any existing credits until August 1, 2026. After that date, any remaining credits will expire.
+
 _________
 February 26, 2026
 ### Updated
