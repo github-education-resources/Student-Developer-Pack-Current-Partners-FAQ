@@ -8,6 +8,12 @@ July 7, 2026
 ### Sunsetting
 DigitalOcean is leaving the Student Developer Pack, and their student credit offer for $200 of platform credit will no longer be available after July 31, 2026. Verified students who have already redeemed the DigitalOcean offer can continue using any existing credits until August 1, 2026. After that date, any remaining credits will expire.
 
+---------
+March 2026
+### Added
+Clerk is the easiest way for students and developers alike to add authentication, user management, billing, and much more to their applications. Flexible APIs and prebuilt components allow you to launch SaaS billing apps and B2B auth quickly and securely.
+
+Boot.dev helps you Master Python, Golang, TypeScript and more in our immersive programming curriculum. Learn Backend Development, DevOps, and Data Analysis with 3 months of free access to Boot.dev’s complete interactive membership.
 _________
 February 26, 2026
 ### Updated
