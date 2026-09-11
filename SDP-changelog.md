@@ -3,6 +3,11 @@
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 
 
+---------
+August 20, 2026
+### Updated
+CamberCloud is updating their offer: Free Camber Student plan while you're enrolled, including 40 CPU hours, 5 GPU hours, 50 GB of storage, and 50 agent messages per month. Connect open data sources like Postgres, Trino, and S3, build agents that know your data and your code, and run them from Cursor or Claude Code through the Camber MCP server — long jobs keep running after you close your laptop.
+
 _________
 July 7, 2026
 ### Sunsetting
