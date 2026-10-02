@@ -4,6 +4,12 @@ This changelog provides a way to track updates to the GitHub Student Developer P
 
 
 ---------
+October 2, 2026
+### Updated
+Free access to Appwrite's Education plan now for 6 months of free access to Appwrite's Education plan (2 projects with equivalent resource limits as Appwrite Pro, worth $40/month). Previously for as long as a student was active.
+
+
+---------
 August 20, 2026
 ### Updated
 CamberCloud is updating their offer: Free Camber Student plan while you're enrolled, including 40 CPU hours, 5 GPU hours, 50 GB of storage, and 50 agent messages per month. Connect open data sources like Postgres, Trino, and S3, build agents that know your data and your code, and run them from Cursor or Claude Code through the Camber MCP server — long jobs keep running after you close your laptop.
