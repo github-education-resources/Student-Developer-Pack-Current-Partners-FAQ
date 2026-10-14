@@ -2,6 +2,11 @@
 
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 
+---------
+October 2, 2026
+### Updated
+1Password has expanded their offer to now provide free use for verified students for 2 years (up from 1 year).
+
 
 ---------
 October 2, 2026
