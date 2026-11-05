@@ -2,6 +2,23 @@
 
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 
+
+
+
+---------
+November 5, 2026
+
+### Updated: Certification Vouchers
+Effective immediately, DataCamp is no longer distributing GitHub Certification vouchers via the completion of their Foundations Learning Journey. Certification vouchers are on a, while supplies last, basis and supplies for the Fall have run out. 
+
+---------
+November 5, 2026
+
+### Updated: Camber Cloud is updating their offer. 
+Old offer language: Free Camber Student plan while you're enrolled, including 40 CPU hours, 5 GPU hours, 50 GB of storage, and 50 agent messages per month. Connect open data sources like Postgres, Trino, and S3, build agents that know your data and your code, and run them from Cursor or Claude Code through the Camber MCP server — long jobs keep running after you close your laptop.
+
+New offer language: Free Camber Student plan for as long as you're enrolled. Camber is a coding agent built for data and scientific work: connect Postgres, Trino, or S3, and have it write, debug, and run real analysis against your own data. Drive it from Cursor or Claude Code via the Camber MCP server, or from the browser. Long jobs keep running in the cloud after you close your laptop. Includes 40 compute hours, 50 GB storage, and 50 agent messages per month.
+
 ---------
 November 1, 2026
 
