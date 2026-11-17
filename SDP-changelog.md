@@ -2,7 +2,11 @@
 
 This changelog provides a way to track updates to the GitHub Student Developer Pack, including newly added or removed partner offers. Issues accessing particular offers will also be tracked via this changelog. For more details on particular offers, you can check the official GitHub Student Developer Pack page [here](https://education.github.com/pack) or the SDP FAQ and current partners list [here](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ/tree/main).
 
+---------
+November 17, 2026
+### Updated: Tower
 
+Tower has updated their Student Developer Pack offer. Previous offer: Free license for Tower Pro while you are a student. Current offer: 6 months of Tower Pro free, then 70% off while enrolled, for up to 4 years”; the Student Developer Pack landing page git-tower.com/students/github gets the same offer. Does the 6 months free apply to students who already redeemed?: No. The 6 free months are for students who first verify after 11/17. Anyone who already has a free license keeps it until its current end date and then moves to the paid student rate as above. 
 
 
 ---------
